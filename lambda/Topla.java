@@ -1,0 +1,6 @@
+package collections.lambda;
+
+public interface Topla {
+    double topla(double x, double y);
+
+}

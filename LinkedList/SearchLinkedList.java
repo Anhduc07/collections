@@ -24,7 +24,5 @@ public class SearchLinkedList {
         System.out.println(" Last IndexOf \"Hieu\" ?: " + empolyees.lastIndexOf("Hieu)"));
 
         System.out.println(" Last IndexOf \"Tu\" ?: " + empolyees.lastIndexOf("Tu)"));
-
-
     }
 }
