@@ -13,6 +13,14 @@ public class ArrayListSort {
 
         System.out.println("Fruit: " + fruit);
 
+        // Truy caap
+        System.out.println("Fruit: " + fruit.get(2));
+
+        // duyệt
+        for (int i = 0; i < fruit.size(); i++) {
+            System.out.println("Fruit " + i + ": " + fruit.get(i));
+        }
+
         // Sort the ArrayList
         fruit.sort(new Comparator<String>() {
             @Override

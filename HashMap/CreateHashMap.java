@@ -11,6 +11,8 @@ public class CreateHashMap {
         NumberMapping.put("six", 6 );
 
 
+
+
 // put key chưa tồn tại
         NumberMapping.putIfAbsent("Five", 5);
 

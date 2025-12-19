@@ -19,6 +19,9 @@ public class CreateHashSet {
 
         System.out.println("Days of the week: " + dayOfWeek);
 
+        //contains
+        System.out.println(dayOfWeek.contains("Monday"));
+
         HashSet<Double> numbers = new HashSet<Double>();
         numbers.add(1.1);
         numbers.add(2.2);

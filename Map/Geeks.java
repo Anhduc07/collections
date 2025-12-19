@@ -6,9 +6,7 @@ import java.util.Map;
 public class Geeks {
     public static void main(String[] args) {
         Map<String, Integer> map = new HashMap<>();
-
         Map<Integer, String> hm = new HashMap<Integer, String>();
-
         map.put("Geek1", 1);
         map.put("Geek2", 2);
         map.put("Geek3", 3);

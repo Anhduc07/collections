@@ -13,6 +13,12 @@ public class AccessKeysFromHashMap {
         cityById.put(3, "New York");
         cityById.put(4, "HaNoi");
         cityById.put(5, "New York");
+        cityById.put(5, "LA");
+
+        cityById.put(6, "Paris");
+        cityById.put(6, "New York");
+
+
 
         System.out.println("cityById" + cityById);
 

@@ -13,6 +13,9 @@ public class CreateLinkedList {
         car.add("Ford");
         car.add("Mazda");
 
+        List<Integer> list = new ArrayList<>();
+
+
         System.out.println("Intial LinkedList: " + car);
 
         car.add(3, "Honda");
